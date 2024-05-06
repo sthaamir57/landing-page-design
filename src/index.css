@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "PPMori";
+    src: url(./assets/fonts/PPMori-Regular.otf) format('opentype');
+}
+
+/* @font-face {
+    font-family: "SemiBold";
+    src: local("PPMori-SemiBold"),
+    url(./assets/fonts/PPMori-SemiBold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "Extralight";
+    src: local("PPMori-Extralight"),
+    url(./assets/fonts/PPMori-Extralight.otf) format('opentype');
+} */
